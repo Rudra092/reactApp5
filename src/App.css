@@ -1,0 +1,38 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.bg-white {
+    --tw-bg-opacity: 1;
+    background-color: #efefef;
+}
+.text-gray-900 {
+    --tw-text-opacity: 1;
+    color: #3a4558;
+}
+.max-w-2xl {
+     max-width: 100%; 
+}
+.rounded-lg {
+    border-radius: 0;
+}
+.h-64 {
+    height: 23rem;
+}
+
+.w-24 {
+    width: 100%; 
+}
+.h-24 {
+    height: auto; 
+}
+.max-w-4xl {
+    max-width: 77rem;
+}
+.w-48 {
+    width: 22rem;
+}
+.h-48 {
+    height: 18rem;
+}
+
